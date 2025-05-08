@@ -1,0 +1,4 @@
+{
+  "Source": "Styles/main.scss",
+  "Target": "wwwroot/main.min.css"
+}
