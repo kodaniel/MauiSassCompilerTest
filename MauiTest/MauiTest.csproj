@@ -67,6 +67,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Components2\Components2.csproj" />
       <ProjectReference Include="..\Components\Components.csproj" />
     </ItemGroup>
 
